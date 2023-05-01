@@ -1,0 +1,248 @@
+[
+    {
+        "id": 1,
+        "name": "Gordon Ramsay",
+        "yearsOfExperience": 30,
+        "recipes": [
+            {
+                "name": "Beef Wellington",
+                "description": "Tender fillet of beef with a crusty, flaky pastry",
+                "ingredients": [
+                    "beef fillet",
+                    "puff pastry",
+                    "mushrooms",
+                    "prosciutto"
+                ],
+                "imageUrl": "https://example.com/gordon-ramsay/beef-wellington.jpg"
+            },
+            {
+                "name": "Lobster Risotto",
+                "description": "Creamy, decadent risotto with chunks of fresh lobster",
+                "ingredients": [
+                    "arborio rice",
+                    "lobster meat",
+                    "white wine",
+                    "parmesan cheese"
+                ],
+                "imageUrl": "https://example.com/gordon-ramsay/lobster-risotto.jpg"
+            },
+            {
+                "name": "Sticky Toffee Pudding",
+                "description": "Warm, gooey cake with a rich toffee sauce",
+                "ingredients": [
+                    "dates",
+                    "butter",
+                    "flour",
+                    "brown sugar"
+                ],
+                "imageUrl": "https://example.com/gordon-ramsay/sticky-toffee-pudding.jpg"
+            }
+        ],
+        "imageUrl": "https://example.com/gordon-ramsay.jpg"
+    },
+    {
+        "id": 2,
+        "name": "Jamie Oliver",
+        "yearsOfExperience": 25,
+        "recipes": [
+            {
+                "name": "Roast Chicken",
+                "description": "Simple, juicy roasted chicken with herbs and lemon",
+                "ingredients": [
+                    "whole chicken",
+                    "lemon",
+                    "garlic",
+                    "rosemary"
+                ],
+                "imageUrl": "https://example.com/jamie-oliver/roast-chicken.jpg"
+            },
+            {
+                "name": "Spaghetti Carbonara",
+                "description": "Classic pasta dish with pancetta, eggs, and cheese",
+                "ingredients": [
+                    "spaghetti",
+                    "pancetta",
+                    "eggs",
+                    "pecorino cheese"
+                ],
+                "imageUrl": "https://example.com/jamie-oliver/spaghetti-carbonara.jpg"
+            },
+            {
+                "name": "Fish and Chips",
+                "description": "Crispy battered fish with chunky fries",
+                "ingredients": [
+                    "cod fillet",
+                    "potatoes",
+                    "flour",
+                    "beer"
+                ],
+                "imageUrl": "https://example.com/jamie-oliver/fish-and-chips.jpg"
+            }
+        ],
+        "imageUrl": "https://example.com/jamie-oliver.jpg"
+    },
+    {
+        "id": 3,
+        "name": "Nigella Lawson",
+        "yearsOfExperience": 20,
+        "recipes": [
+            {
+                "name": "Chocolate Cake",
+                "description": "Rich, moist chocolate cake with a decadent frosting",
+                "ingredients": [
+                    "flour",
+                    "sugar",
+                    "cocoa powder",
+                    "eggs"
+                ],
+                "imageUrl": "https://example.com/nigella-lawson/chocolate-cake.jpg"
+            },
+            {
+                "name": "Linguine with Clams",
+                "description": "Garlicky pasta dish with fresh clams and white wine",
+                "ingredients": [
+                    "linguine",
+                    "clams",
+                    "garlic",
+                    "white wine"
+                ],
+                "imageUrl": "https://example.com/nigella-lawson/linguine-with-clams.jpg"
+            },
+            {
+                "name": "Roast Beef with Yorkshire Puddings",
+                "description": "Garlicky pasta dish with fresh clams and white wine",
+                "ingredients": [
+                    "linguine",
+                    "clams",
+                    "garlic",
+                    "white wine"
+                ],
+                "imageUrl": "https://example.com/nigella-lawson/linguine-with-clams.jpg"
+            }
+        ],
+        "imageUrl": "https://example.com/jamie-oliver.jpg"
+    },
+    {
+        "id": 4,
+        "name": "Bobby Flay",
+        "yearsOfExperience": 25,
+        "recipes": [
+            {
+                "name": "Grilled Steak",
+                "description": "Rich, moist chocolate cake with a decadent frosting",
+                "ingredients": [
+                    "flour",
+                    "sugar",
+                    "cocoa powder",
+                    "eggs"
+                ],
+                "imageUrl": "https://example.com/nigella-lawson/chocolate-cake.jpg"
+            },
+            {
+                "name": "Takos al Pastor",
+                "description": "Garlicky pasta dish with fresh clams and white wine",
+                "ingredients": [
+                    "linguine",
+                    "clams",
+                    "garlic",
+                    "white wine"
+                ],
+                "imageUrl": "https://example.com/nigella-lawson/linguine-with-clams.jpg"
+            },
+            {
+                "name": "Margarite Chicken",
+                "description": "Garlicky pasta dish with fresh clams and white wine",
+                "ingredients": [
+                    "linguine",
+                    "clams",
+                    "garlic",
+                    "white wine"
+                ],
+                "imageUrl": "https://example.com/nigella-lawson/linguine-with-clams.jpg"
+            }
+        ],
+        "imageUrl": "https://example.com/jamie-oliver.jpg"
+    },
+    {
+        "id": 5,
+        "name": "Ina Garten",
+        "yearsOfExperience": 30,
+        "recipes": [
+            {
+                "name": "Roast Chicken",
+                "description": "Rich, moist chocolate cake with a decadent frosting",
+                "ingredients": [
+                    "flour",
+                    "sugar",
+                    "cocoa powder",
+                    "eggs"
+                ],
+                "imageUrl": "https://example.com/nigella-lawson/chocolate-cake.jpg"
+            },
+            {
+                "name": "Apple Pie",
+                "description": "Garlicky pasta dish with fresh clams and white wine",
+                "ingredients": [
+                    "linguine",
+                    "clams",
+                    "garlic",
+                    "white wine"
+                ],
+                "imageUrl": "https://example.com/nigella-lawson/linguine-with-clams.jpg"
+            },
+            {
+                "name": "Chocolate Cake",
+                "description": "Garlicky pasta dish with fresh clams and white wine",
+                "ingredients": [
+                    "linguine",
+                    "clams",
+                    "garlic",
+                    "white wine"
+                ],
+                "imageUrl": "https://example.com/nigella-lawson/linguine-with-clams.jpg"
+            }
+        ],
+        "imageUrl": "https://example.com/jamie-oliver.jpg"
+    },
+    {
+        "id": 6,
+        "name": "Anthony Bourdain",
+        "yearsOfExperience": 20,
+        "recipes": [
+            {
+                "name": "Beef Bourguignon",
+                "description": "Rich, moist chocolate cake with a decadent frosting",
+                "ingredients": [
+                    "flour",
+                    "sugar",
+                    "cocoa powder",
+                    "eggs"
+                ],
+                "imageUrl": "https://example.com/nigella-lawson/chocolate-cake.jpg"
+            },
+            {
+                "name": "Coq au Vin",
+                "description": "Garlicky pasta dish with fresh clams and white wine",
+                "ingredients": [
+                    "linguine",
+                    "clams",
+                    "garlic",
+                    "white wine"
+                ],
+                "imageUrl": "https://example.com/nigella-lawson/linguine-with-clams.jpg"
+            },
+            {
+                "name": "Ouefs en Meurette",
+                "description": "Garlicky pasta dish with fresh clams and white wine",
+                "ingredients": [
+                    "linguine",
+                    "clams",
+                    "garlic",
+                    "white wine"
+                ],
+                "imageUrl": "https://example.com/nigella-lawson/linguine-with-clams.jpg"
+            }
+        ],
+        "imageUrl": "https://example.com/jamie-oliver.jpg"
+    }
+]
