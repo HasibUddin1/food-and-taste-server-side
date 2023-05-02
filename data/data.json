@@ -11,10 +11,26 @@
                 "name": "Beef Wellington",
                 "description": "Tender fillet of beef with a crusty, flaky pastry",
                 "ingredients": [
-                    "beef fillet",
-                    "puff pastry",
-                    "mushrooms",
-                    "prosciutto"
+                    {
+                        "id": 1,
+                        "name": "beef fillet"
+                    },
+                    {
+                        "id": 2,
+                        "name": "puff pastry"
+                    },
+                    {
+                        "id": 3,
+                        "name": "mushrooms"
+                    },
+                    {
+                        "id": 4,
+                        "name": "prosciutto"
+                    },
+                    {
+                        "id": 5,
+                        "name": "Chickpeas"
+                    }
                 ],
                 "imageUrl": "https://example.com/gordon-ramsay/beef-wellington.jpg"
             },
@@ -23,10 +39,26 @@
                 "name": "Lobster Risotto",
                 "description": "Creamy, decadent risotto with chunks of fresh lobster",
                 "ingredients": [
-                    "arborio rice",
-                    "lobster meat",
-                    "white wine",
-                    "parmesan cheese"
+                    {
+                        "id": 6,
+                        "name": "arborio rice"
+                    },
+                    {
+                        "id": 7,
+                        "name": "lobster meat"
+                    },
+                    {
+                        "id": 8,
+                        "name": "white wine"
+                    },
+                    {
+                        "id": 9,
+                        "name": "parmesan cheese"
+                    },
+                    {
+                        "id": 10,
+                        "name": "Tempeh"
+                    }
                 ],
                 "imageUrl": "https://example.com/gordon-ramsay/lobster-risotto.jpg"
             },
@@ -35,10 +67,26 @@
                 "name": "Sticky Toffee Pudding",
                 "description": "Warm, gooey cake with a rich toffee sauce",
                 "ingredients": [
-                    "dates",
-                    "butter",
-                    "flour",
-                    "brown sugar"
+                    {
+                        "id": 11,
+                        "name": "dates"
+                    },
+                    {
+                        "id": 12,
+                        "name": "butter"
+                    },
+                    {
+                        "id": 13,
+                        "name": "flour"
+                    },
+                    {
+                        "id": 14,
+                        "name": "brown sugar"
+                    },
+                    {
+                        "id": 15,
+                        "name": "Lentils"
+                    }
                 ],
                 "imageUrl": "https://example.com/gordon-ramsay/sticky-toffee-pudding.jpg"
             }
@@ -57,10 +105,26 @@
                 "name": "Roast Chicken",
                 "description": "Simple, juicy roasted chicken with herbs and lemon",
                 "ingredients": [
-                    "whole chicken",
-                    "lemon",
-                    "garlic",
-                    "rosemary"
+                    {
+                        "id": 16,
+                        "name": "whole chicken"
+                    },
+                    {
+                        "id": 17,
+                        "name": "lemon"
+                    },
+                    {
+                        "id": 18,
+                        "name": "garlic"
+                    },
+                    {
+                        "id": 19,
+                        "name": "rosemary"
+                    },
+                    {
+                        "id": 20,
+                        "name": "Kidney beans"
+                    }
                 ],
                 "imageUrl": "https://example.com/jamie-oliver/roast-chicken.jpg"
             },
@@ -69,10 +133,26 @@
                 "name": "Spaghetti Carbonara",
                 "description": "Classic pasta dish with pancetta, eggs, and cheese",
                 "ingredients": [
-                    "spaghetti",
-                    "pancetta",
-                    "eggs",
-                    "pecorino cheese"
+                    {
+                        "id": 21,
+                        "name": "spaghetti"
+                    },
+                    {
+                        "id": 22,
+                        "name": "pancetta"
+                    },
+                    {
+                        "id": 23,
+                        "name": "eggs"
+                    },
+                    {
+                        "id": 24,
+                        "name": "pecorino cheese"
+                    },
+                    {
+                        "id": 25,
+                        "name": "Sour cream"
+                    }
                 ],
                 "imageUrl": "https://example.com/jamie-oliver/spaghetti-carbonara.jpg"
             },
@@ -81,10 +161,26 @@
                 "name": "Fish and Chips",
                 "description": "Crispy battered fish with chunky fries",
                 "ingredients": [
-                    "cod fillet",
-                    "potatoes",
-                    "flour",
-                    "beer"
+                    {
+                        "id": 26,
+                        "name": "cod fillet"
+                    },
+                    {
+                        "id": 27,
+                        "name": "potatoes"
+                    },
+                    {
+                        "id": 28,
+                        "name": "flour"
+                    },
+                    {
+                        "id": 29,
+                        "name": "beer"
+                    },
+                    {
+                        "id": 30,
+                        "name": "Lima beans"
+                    }
                 ],
                 "imageUrl": "https://example.com/jamie-oliver/fish-and-chips.jpg"
             }
@@ -103,10 +199,26 @@
                 "name": "Chocolate Cake",
                 "description": "Rich, moist chocolate cake with a decadent frosting",
                 "ingredients": [
-                    "flour",
-                    "sugar",
-                    "cocoa powder",
-                    "eggs"
+                    {
+                        "id": 31,
+                        "name": "flour"
+                    },
+                    {
+                        "id": 32,
+                        "name": "sugar"
+                    },
+                    {
+                        "id": 33,
+                        "name": "cocoa powder"
+                    },
+                    {
+                        "id": 34,
+                        "name": "eggs"
+                    },
+                    {
+                        "id": 35,
+                        "name": "Sour cream"
+                    }
                 ],
                 "imageUrl": "https://example.com/nigella-lawson/chocolate-cake.jpg"
             },
@@ -115,10 +227,26 @@
                 "name": "Linguine with Clams",
                 "description": "Garlicky pasta dish with fresh clams and white wine",
                 "ingredients": [
-                    "linguine",
-                    "clams",
-                    "garlic",
-                    "white wine"
+                    {
+                        "id": 36,
+                        "name": "linguine"
+                    },
+                    {
+                        "id": 37,
+                        "name": "clams"
+                    },
+                    {
+                        "id": 38,
+                        "name": "garlic"
+                    },
+                    {
+                        "id": 39,
+                        "name": "white wine"
+                    },
+                    {
+                        "id": 40,
+                        "name": "Macadamia nuts"
+                    }
                 ],
                 "imageUrl": "https://example.com/nigella-lawson/linguine-with-clams.jpg"
             },
@@ -127,10 +255,26 @@
                 "name": "Roast Beef with Yorkshire Puddings",
                 "description": "Garlicky pasta dish with fresh clams and white wine",
                 "ingredients": [
-                    "linguine",
-                    "clams",
-                    "garlic",
-                    "white wine"
+                    {
+                        "id": 41,
+                        "name": "linguine"
+                    },
+                    {
+                        "id": 42,
+                        "name": "clams"
+                    },
+                    {
+                        "id": 43,
+                        "name": "garlic"
+                    },
+                    {
+                        "id": 44,
+                        "name": "white wine"
+                    },
+                    {
+                        "id": 45,
+                        "name": "Pistachios"
+                    }
                 ],
                 "imageUrl": "https://example.com/nigella-lawson/linguine-with-clams.jpg"
             }
@@ -149,10 +293,26 @@
                 "name": "Grilled Steak",
                 "description": "Rich, moist chocolate cake with a decadent frosting",
                 "ingredients": [
-                    "flour",
-                    "sugar",
-                    "cocoa powder",
-                    "eggs"
+                    {
+                        "id": 46,
+                        "name": "flour"
+                    },
+                    {
+                        "id": 47,
+                        "name": "sugar"
+                    },
+                    {
+                        "id": 48,
+                        "name": "cocoa powder"
+                    },
+                    {
+                        "id": 49,
+                        "name": "eggs"
+                    },
+                    {
+                        "id": 50,
+                        "name": "Yogurt"
+                    }
                 ],
                 "imageUrl": "https://example.com/nigella-lawson/chocolate-cake.jpg"
             },
@@ -161,10 +321,26 @@
                 "name": "Takos al Pastor",
                 "description": "Garlicky pasta dish with fresh clams and white wine",
                 "ingredients": [
-                    "linguine",
-                    "clams",
-                    "garlic",
-                    "white wine"
+                    {
+                        "id": 51,
+                        "name": "linguine"
+                    },
+                    {
+                        "id": 52,
+                        "name": "clams"
+                    },
+                    {
+                        "id": 53,
+                        "name": "garlic"
+                    },
+                    {
+                        "id": 54,
+                        "name": "white wine"
+                    },
+                    {
+                        "id": 55,
+                        "name": "Sunflower seeds"
+                    }
                 ],
                 "imageUrl": "https://example.com/nigella-lawson/linguine-with-clams.jpg"
             },
@@ -173,10 +349,26 @@
                 "name": "Margarite Chicken",
                 "description": "Garlicky pasta dish with fresh clams and white wine",
                 "ingredients": [
-                    "linguine",
-                    "clams",
-                    "garlic",
-                    "white wine"
+                    {
+                        "id": 56,
+                        "name": "linguine"
+                    },
+                    {
+                        "id": 57,
+                        "name": "clams"
+                    },
+                    {
+                        "id": 58,
+                        "name": "garlic"
+                    },
+                    {
+                        "id": 59,
+                        "name": "white wine"
+                    },
+                    {
+                        "id": 60,
+                        "name": "Sesame seeds"
+                    }
                 ],
                 "imageUrl": "https://example.com/nigella-lawson/linguine-with-clams.jpg"
             }
@@ -195,10 +387,26 @@
                 "name": "Roast Chicken",
                 "description": "Rich, moist chocolate cake with a decadent frosting",
                 "ingredients": [
-                    "flour",
-                    "sugar",
-                    "cocoa powder",
-                    "eggs"
+                    {
+                        "id": 61,
+                        "name": "flour"
+                    },
+                    {
+                        "id": 62,
+                        "name": "sugar"
+                    },
+                    {
+                        "id": 63,
+                        "name": "cocoa powder"
+                    },
+                    {
+                        "id": 64,
+                        "name": "eggs"
+                    },
+                    {
+                        "id": 65,
+                        "name": "Caraway seeds"
+                    }
                 ],
                 "imageUrl": "https://example.com/nigella-lawson/chocolate-cake.jpg"
             },
@@ -207,10 +415,26 @@
                 "name": "Apple Pie",
                 "description": "Garlicky pasta dish with fresh clams and white wine",
                 "ingredients": [
-                    "linguine",
-                    "clams",
-                    "garlic",
-                    "white wine"
+                    {
+                        "id": 66,
+                        "name": "linguine"
+                    },
+                    {
+                        "id": 67,
+                        "name": "clams"
+                    },
+                    {
+                        "id": 68,
+                        "name": "garlic"
+                    },
+                    {
+                        "id": 69,
+                        "name": "white wine"
+                    },
+                    {
+                        "id": 70,
+                        "name": "Mustard seeds"
+                    }
                 ],
                 "imageUrl": "https://example.com/nigella-lawson/linguine-with-clams.jpg"
             },
@@ -219,10 +443,26 @@
                 "name": "Chocolate Cake",
                 "description": "Garlicky pasta dish with fresh clams and white wine",
                 "ingredients": [
-                    "linguine",
-                    "clams",
-                    "garlic",
-                    "white wine"
+                    {
+                        "id": 71,
+                        "name": "linguine"
+                    },
+                    {
+                        "id": 72,
+                        "name": "clams"
+                    },
+                    {
+                        "id": 73,
+                        "name": "garlic"
+                    },
+                    {
+                        "id": 74,
+                        "name": "white wine"
+                    },
+                    {
+                        "id": 75,
+                        "name": "Cardamom"
+                    }
                 ],
                 "imageUrl": "https://example.com/nigella-lawson/linguine-with-clams.jpg"
             }
@@ -241,10 +481,26 @@
                 "name": "Beef Bourguignon",
                 "description": "Rich, moist chocolate cake with a decadent frosting",
                 "ingredients": [
-                    "flour",
-                    "sugar",
-                    "cocoa powder",
-                    "eggs"
+                    {
+                        "id": 76,
+                        "name": "flour"
+                    },
+                    {
+                        "id": 77,
+                        "name": "sugar"
+                    },
+                    {
+                        "id": 78,
+                        "name": "cocoa powder"
+                    },
+                    {
+                        "id": 79,
+                        "name": "eggs"
+                    },
+                    {
+                        "id": 80,
+                        "name": "Cinnamon"
+                    }
                 ],
                 "imageUrl": "https://example.com/nigella-lawson/chocolate-cake.jpg"
             },
@@ -253,10 +509,26 @@
                 "name": "Coq au Vin",
                 "description": "Garlicky pasta dish with fresh clams and white wine",
                 "ingredients": [
-                    "linguine",
-                    "clams",
-                    "garlic",
-                    "white wine"
+                    {
+                        "id": 81,
+                        "name": "linguine"
+                    },
+                    {
+                        "id": 82,
+                        "name": "clams"
+                    },
+                    {
+                        "id": 83,
+                        "name": "garlic"
+                    },
+                    {
+                        "id": 84,
+                        "name": "white wine"
+                    },
+                    {
+                        "id": 85,
+                        "name": "Chili powder"
+                    }
                 ],
                 "imageUrl": "https://example.com/nigella-lawson/linguine-with-clams.jpg"
             },
@@ -265,10 +537,26 @@
                 "name": "Ouefs en Meurette",
                 "description": "Garlicky pasta dish with fresh clams and white wine",
                 "ingredients": [
-                    "linguine",
-                    "clams",
-                    "garlic",
-                    "white wine"
+                    {
+                        "id": 86,
+                        "name": "linguine"
+                    },
+                    {
+                        "id": 87,
+                        "name": "clams"
+                    },
+                    {
+                        "id": 88,
+                        "name": "garlic"
+                    },
+                    {
+                        "id": 89,
+                        "name": "white wine"
+                    },
+                    {
+                        "id": 90,
+                        "name": "Cloves"
+                    }
                 ],
                 "imageUrl": "https://example.com/nigella-lawson/linguine-with-clams.jpg"
             }
