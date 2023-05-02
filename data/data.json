@@ -3,6 +3,8 @@
         "id": 1,
         "name": "Gordon Ramsay",
         "yearsOfExperience": 30,
+        "bio": "A British chef and television personality, known for his fiery personality and Michelin-starred restaurants. He has appeared in various cooking shows, including 'Hell's Kitchen' and 'MasterChef'",
+        "likes": "15 million",
         "recipes": [
             {
                 "id": 1,
@@ -47,6 +49,8 @@
         "id": 2,
         "name": "Jamie Oliver",
         "yearsOfExperience": 25,
+        "bio": "An American chef and author, known for her popular cookbook 'Mastering the Art of French Cooking'. He introduced French cuisine to Americans through her cooking show 'The French Chef' in the 1960s",
+        "likes": "10 million",
         "recipes": [
             {
                 "id": 4,
@@ -91,6 +95,8 @@
         "id": 3,
         "name": "Nigella Lawson",
         "yearsOfExperience": 20,
+        "bio": "An Italian chef and restaurateur, known for his restaurant Osteria Francescana, which has been ranked as the best restaurant in the world. He is also known for his innovative and creative approach to Italian cuisine",
+        "likes": "1 million",
         "recipes": [
             {
                 "id": 7,
@@ -135,6 +141,8 @@
         "id": 4,
         "name": "Bobby Flay",
         "yearsOfExperience": 25,
+        "bio": "An American chef and restaurateur, known for her focus on locally sourced and sustainable ingredients. She is the owner of Chez Panisse, a renowned restaurant in Berkeley, California",
+        "likes": "2 million",
         "recipes": [
             {
                 "id": 10,
@@ -179,6 +187,8 @@
         "id": 5,
         "name": "Ina Garten",
         "yearsOfExperience": 30,
+        "bio": "An American chef, author, and television personality, known for his travel and food shows, including 'No Reservations' and 'Parts Unknown'. He was also an advocate for culinary diversity and exploration",
+        "likes": "1 million",
         "recipes": [
             {
                 "id": 13,
@@ -223,6 +233,8 @@
         "id": 6,
         "name": "Anthony Bourdain",
         "yearsOfExperience": 20,
+        "bio": "A British chef and restaurateur, known for his experimental and scientific approach to cooking. He is the owner of The Fat Duck, a three-Michelin-starred restaurant in Bray, England, and has also appeared in various cooking shows",
+        "likes": "50 million",
         "recipes": [
             {
                 "id": 16,
