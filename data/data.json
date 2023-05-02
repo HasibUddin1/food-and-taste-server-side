@@ -10,6 +10,8 @@
                 "id": 1,
                 "name": "Beef Wellington",
                 "description": "Tender fillet of beef with a crusty, flaky pastry",
+                "rating": 5,
+                "cookingMethod": "Grilling",
                 "ingredients": [
                     {
                         "id": 1,
@@ -38,6 +40,8 @@
                 "id": 2,
                 "name": "Lobster Risotto",
                 "description": "Creamy, decadent risotto with chunks of fresh lobster",
+                "rating": 4,
+                "cookingMethod": "Boiling",
                 "ingredients": [
                     {
                         "id": 6,
@@ -66,6 +70,8 @@
                 "id": 3,
                 "name": "Sticky Toffee Pudding",
                 "description": "Warm, gooey cake with a rich toffee sauce",
+                "rating": 4.5,
+                "cookingMethod": "Steaming",
                 "ingredients": [
                     {
                         "id": 11,
@@ -104,6 +110,8 @@
                 "id": 4,
                 "name": "Roast Chicken",
                 "description": "Simple, juicy roasted chicken with herbs and lemon",
+                "rating": 3.8,
+                "cookingMethod": "Roasting",
                 "ingredients": [
                     {
                         "id": 16,
@@ -132,6 +140,8 @@
                 "id": 5,
                 "name": "Spaghetti Carbonara",
                 "description": "Classic pasta dish with pancetta, eggs, and cheese",
+                "rating": 4.2,
+                "cookingMethod": "Baking",
                 "ingredients": [
                     {
                         "id": 21,
@@ -160,6 +170,8 @@
                 "id": 6,
                 "name": "Fish and Chips",
                 "description": "Crispy battered fish with chunky fries",
+                "rating": 5,
+                "cookingMethod": "Frying",
                 "ingredients": [
                     {
                         "id": 26,
@@ -198,6 +210,8 @@
                 "id": 7,
                 "name": "Chocolate Cake",
                 "description": "Rich, moist chocolate cake with a decadent frosting",
+                "rating": 4,
+                "cookingMethod": "Broiling",
                 "ingredients": [
                     {
                         "id": 31,
@@ -226,6 +240,8 @@
                 "id": 8,
                 "name": "Linguine with Clams",
                 "description": "Garlicky pasta dish with fresh clams and white wine",
+                "rating": 3.9,
+                "cookingMethod": "Simmering",
                 "ingredients": [
                     {
                         "id": 36,
@@ -254,6 +270,8 @@
                 "id": 9,
                 "name": "Roast Beef with Yorkshire Puddings",
                 "description": "Garlicky pasta dish with fresh clams and white wine",
+                "rating": 4.7,
+                "cookingMethod": "Stir-frying",
                 "ingredients": [
                     {
                         "id": 41,
@@ -292,6 +310,8 @@
                 "id": 10,
                 "name": "Grilled Steak",
                 "description": "Rich, moist chocolate cake with a decadent frosting",
+                "rating": 4,
+                "cookingMethod": "Smoking",
                 "ingredients": [
                     {
                         "id": 46,
@@ -320,6 +340,8 @@
                 "id": 11,
                 "name": "Takos al Pastor",
                 "description": "Garlicky pasta dish with fresh clams and white wine",
+                "rating": 5,
+                "cookingMethod": "Sous vide",
                 "ingredients": [
                     {
                         "id": 51,
@@ -348,6 +370,8 @@
                 "id": 12,
                 "name": "Margarite Chicken",
                 "description": "Garlicky pasta dish with fresh clams and white wine",
+                "rating": 4,
+                "cookingMethod": "Pressure cooking",
                 "ingredients": [
                     {
                         "id": 56,
@@ -386,6 +410,8 @@
                 "id": 13,
                 "name": "Roast Chicken",
                 "description": "Rich, moist chocolate cake with a decadent frosting",
+                "rating": 3,
+                "cookingMethod": "Poaching",
                 "ingredients": [
                     {
                         "id": 61,
@@ -414,6 +440,8 @@
                 "id": 14,
                 "name": "Apple Pie",
                 "description": "Garlicky pasta dish with fresh clams and white wine",
+                "rating": 3.8,
+                "cookingMethod": "Micro waving",
                 "ingredients": [
                     {
                         "id": 66,
@@ -442,6 +470,8 @@
                 "id": 15,
                 "name": "Chocolate Cake",
                 "description": "Garlicky pasta dish with fresh clams and white wine",
+                "rating": 4.8,
+                "cookingMethod": "Slow cooking",
                 "ingredients": [
                     {
                         "id": 71,
@@ -480,6 +510,8 @@
                 "id": 16,
                 "name": "Beef Bourguignon",
                 "description": "Rich, moist chocolate cake with a decadent frosting",
+                "rating": 4.2,
+                "cookingMethod": "Braising",
                 "ingredients": [
                     {
                         "id": 76,
@@ -508,6 +540,8 @@
                 "id": 17,
                 "name": "Coq au Vin",
                 "description": "Garlicky pasta dish with fresh clams and white wine",
+                "rating": 5,
+                "cookingMethod": "Blanching",
                 "ingredients": [
                     {
                         "id": 81,
@@ -536,6 +570,8 @@
                 "id": 18,
                 "name": "Ouefs en Meurette",
                 "description": "Garlicky pasta dish with fresh clams and white wine",
+                "rating": 4.2,
+                "cookingMethod": "Boiling",
                 "ingredients": [
                     {
                         "id": 86,
